@@ -1,0 +1,3 @@
+operators are assigned a precedence level which can be seen
+by calling :info on an operator. infixl is for left associativity
+and infixr is for right associativity
